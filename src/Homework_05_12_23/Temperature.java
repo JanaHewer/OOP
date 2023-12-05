@@ -13,7 +13,7 @@ public Temperature( double celsius, double fahrenheit){
 }
     public void getCelsius(){
 
-        System.out.println(fahrenheit + " °F = " + (5*(fahrenheit-32)/9) + " °C");
+        System.out.println(fahrenheit + " °F = " + celsius + " °C");
 
 
     }
